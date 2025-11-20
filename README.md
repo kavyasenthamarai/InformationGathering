@@ -22,7 +22,14 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
-
-
+![whois](<img/eth2 1.png>)
+![ping](<img/eth2 2.png>)
+![ip2location](<img/eth2 3.png>)
+![web.archive.org](<img/eth2 4.png>)
+![NMAP](<img/eth2 6.png>)
+![whatweb](<img/eth2 7.png>)
+![ping github](<img/eth2 8.png>)
+![Traceroute](<img/eth2 9.png>)
+![netcat](<img/eth2 11.png>)
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
